@@ -1,0 +1,66 @@
+[
+          {
+            "topicId": 1,
+            "discussionTopic": "SpringBoot",
+            "topicTxt":"Do you love spring boot?",
+            "comments":[{ }]
+
+          },
+
+          {
+            "topicId": 2,
+            "discussionTopic": "Sybase",
+            "topicTxt":"Is sybase outdated?",
+            "comments":[{ }]
+
+          }, 
+
+          {
+            "topicId": 3,
+            "discussionTopic": "Microsoft Lumia",
+            "topicTxt":"will microsoft mobile can make a comeback in market?",
+            "comments":[{ }]
+
+          },
+
+          {
+            "topicId": 4,
+            "discussionTopic": "Cloud",
+            "topicTxt":"What do you think about the new CLOUD concept in this world ?",
+            "comments":[ {
+                          "commentId": 1,
+                          "Name": "Ankit",
+                          "emailId": "ankit@gmail.com",
+                          "Comment":"Its a new concept and exciting"
+
+                        }, {
+                          "commentId": 2,
+                          "Name": "Aman",
+                          "emailId": "Aman@gmail.com",
+                          "Comment":"Its gonna change the world !!"
+
+                        }, {
+                          "commentId": 3,
+                          "Name": "Rishab",
+                          "emailId": "Rishab@gmail.com",
+                          "Comment":"So easy to learn"
+
+                        },
+                         {
+                          "commentId": 4,
+                          "Name": "Riya",
+                          "emailId": "Riya@gmail.com",
+                          "Comment":"it's typical"
+
+                        },
+                         {
+                          "commentId": 5,
+                          "Name": "Rocky",
+                          "emailId": "Rocky@gmail.com",
+                          "Comment":"from where the cloud came from??"
+
+                        }]
+
+          }
+
+]
